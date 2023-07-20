@@ -19,7 +19,7 @@ const endpoint = "https://api.npoint.io/2a6149d741aa3f956230";
 */
 const obtenerDatos = async () => {
   const respuesta = await fetch(endpoint);
-  
+
   const datos = await respuesta.json();
   console.log(datos);
 };
