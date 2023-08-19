@@ -1,4 +1,4 @@
-let api_key = "b00e97f09811a0fd22be35df70ae44b0";
+let api_key = "&&&&&&&&&"; // Agregar api key personal para que funcione
 let difKelvin = 273.15;
 let urlBase = 'http://api.openweathermap.org/data/2.5/weather';
 
